@@ -1,0 +1,5 @@
+最重要的只有一个文件就是HTML下的wx
+其他都不是必须的，在服务器跑workman
+cd \php\vendor\LGatewayWorker
+php start start.php -d
+访问就可以说话
